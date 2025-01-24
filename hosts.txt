@@ -173,4 +173,7 @@ https://www.technoy.de/lists/fake-streaming.txt
 https://www.technoy.de/lists/FireTVAds.txt
 https://www.technoy.de/lists/malware2.txt
 https://www.technoy.de/lists/Session-Replay.txt
-
+https://easylist.to/easylist/easylist.txt
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/refs/heads/master/nocoin.txt
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/refs/heads/master/nocoin-ublock.txt
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/refs/heads/master/hosts.txt
