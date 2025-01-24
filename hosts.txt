@@ -185,3 +185,13 @@ https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribabl
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Germany.txt
 https://raw.githubusercontent.com/betterwebleon/international-list/master/filters.txt
 https://easylist-downloads.adblockplus.org/easylistgermany-minified.txt
+https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Pro/adblock.txt
+https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Pro/dnsmasq.conf
+https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Pro/domains.txt
+https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Pro/domains.wildcards
+https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Pro/hosts.txt
+https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Pro/hosts.win
+https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Pro/rpz.txt
+https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Pro/snitch.rules
+https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Pro/unbound.conf
+https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Pro/wildcards.txt
