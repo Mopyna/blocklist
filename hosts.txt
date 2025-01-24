@@ -177,3 +177,11 @@ https://easylist.to/easylist/easylist.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/refs/heads/master/nocoin.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/refs/heads/master/nocoin-ublock.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/refs/heads/master/hosts.txt
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Austria.txt
+https://raw.githubusercontent.com/KodoPengin/Collection-of-IP-addresses/refs/heads/main/Webserver%20Security/IPTable.txt
+https://raw.githubusercontent.com/KodoPengin/Collection-of-IP-addresses/refs/heads/main/Spyware%20Services%20in%20Games/IPTable.txt
+https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Liechtenstein.txt
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Germany.txt
+https://raw.githubusercontent.com/betterwebleon/international-list/master/filters.txt
+https://easylist-downloads.adblockplus.org/easylistgermany-minified.txt
